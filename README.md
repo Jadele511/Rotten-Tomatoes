@@ -9,11 +9,12 @@ Completed user stories:
 
 [Required] User can view movie details by tapping on a cell.
 
-[Required] User sees loading state while waiting for movies API. You can use one of the 3rd party libraries at www.cocoacontrols.com/search?q=hud.
+[Required] User sees loading state while waiting for movies API
 
 [Required] User sees error message when there's a networking error. You may not use UIAlertView or a 3rd party library to display the error.
 
 [Required] User can pull to refresh the movie list. 
 
 Walkthrough of all user stories:
-![Video Walkthrough](Rotten Tomatoes.gif)
+
+![Video Walkthrough](Rotten Tomatoes - Jade.gif)
