@@ -15,7 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
-        // Override point for customization after application launch.
+        // Overrid/Users/user/Desktop/Rotten Tomatoes App/Rotten Tomatoes App/MovieCell.swifte point for customization after application launch.
         return true
     }
 
